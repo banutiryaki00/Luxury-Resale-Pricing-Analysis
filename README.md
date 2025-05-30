@@ -8,5 +8,5 @@ This project explores pricing dynamics in the secondhand luxury fashion market u
   Source: [Fashionphile](https://www.fashionphile.com/) (scraped; not officially provided)
   
 - **Vestiaire Collective scraped listings**  
-  Source: [Vestiaire Collective](https://us.vestiairecollective.com/) (scraped; not officially provided)
+  Source: [Vestiaire Collective](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset/data)
   

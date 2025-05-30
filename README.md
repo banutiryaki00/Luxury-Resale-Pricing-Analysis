@@ -4,9 +4,9 @@ This project explores pricing dynamics in the secondhand luxury fashion market u
 
 
 ## 📊 Datasets
-- **Fashionphile scraped listings**  
-  Source: [Fashionphile](https://www.fashionphile.com/) (scraped; not officially provided)
+- **Fashionphile Dataset**  
+  Source: [Kaggle](https://www.kaggle.com/datasets/polartech/second-hand-luxury-bagswatches-dataset)
   
-- **Vestiaire Collective scraped listings**  
-  Source: [Vestiaire Collective](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset/data)
+- **Vestiaire Collective Dataset**  
+  Source: [Kaggle](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset/data)
   
